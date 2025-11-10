@@ -1,6 +1,6 @@
 # 🤝 Contributing to CareEase
 
-Thank you for showing interest in contributing to **CareEase!** 💚  
+Thank you for showing interest in contributing to 
 We’re excited to have you on board. This guide will help you get started — from setting up the project locally to submitting your first pull request (PR).
 
 If you’re new to open source, check out [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/).
